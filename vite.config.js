@@ -44,6 +44,7 @@ export default defineConfig({
         "parity": resolve(__dirname, "parity.html"),
         "code": resolve(__dirname, "code.html"),
         "ltef": resolve(__dirname, "ltef.html"),
+        "ltct": resolve(__dirname, "ltct.html"),
         "bigbld": resolve(__dirname, "bigbld.html"),
         "bigbld/code": resolve(__dirname, "bigbld/code.html"),
         "bigbld/midge": resolve(__dirname, "bigbld/midge.html"),
